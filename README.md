@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm uppi07
+# Hi there! 👋 I'm Upendra Dommaraju
 
 ## 🚀 About Me
 Software engineer passionate about building innovative solutions in recruitment tech, AI/ML, and microservices architecture.
