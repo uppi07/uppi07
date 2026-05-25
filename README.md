@@ -6,9 +6,11 @@
 
 I build scalable full-stack applications, AI-powered platforms, and cloud-ready backend systems with a strong focus on clean architecture, performance, automation, and real-world product impact.
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-upendradommaraju.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.upendradommaraju.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra%20Dommaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendraupendra/)
 [![GitHub](https://img.shields.io/badge/GitHub-uppi07-181717?style=for-the-badge&logo=github)](https://github.com/uppi07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra%20Dommaraju-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Portfolio](https://www.upendradommaraju.com)](#)
 
 </div>
 
@@ -16,24 +18,28 @@ I build scalable full-stack applications, AI-powered platforms, and cloud-ready 
 
 ## 🚀 About Me
 
-I am a software engineer passionate about building **production-ready full-stack applications**, **AI-powered tools**, and **microservices-based systems**.
+I am a software engineer focused on building **production-ready full-stack applications**, **AI-powered tools**, and **cloud-ready backend systems**.
 
-My work mainly focuses on:
+My engineering approach is centered around writing clean, scalable, and maintainable software while continuously improving in backend architecture, system design, DevOps, and AI-driven product development.
 
-- Designing scalable backend APIs using **Node.js, Express.js, REST APIs, and microservices**
-- Building modern frontend applications using **React, TypeScript, Vite, TailwindCSS, and Bootstrap**
-- Integrating **AI/ML workflows** for resume analysis, classification, intelligent matching, and automation
-- Learning and applying **DevOps, CI/CD, Docker, Kubernetes, cloud infrastructure, and system design**
-- Creating practical SaaS-style products that solve real problems in recruitment, finance, and automation
+I enjoy working on practical products that combine:
+
+- Scalable backend APIs
+- Modern frontend experiences
+- AI-powered automation
+- Microservices architecture
+- CI/CD and cloud deployment workflows
+- Real-world SaaS product thinking
 
 ---
 
 ## 🔭 Current Focus
 
-- 🎯 **RecruiteMee** — Building a recruitment-tech platform for ATS-friendly resumes, referrals, and career growth
+- 🎯 **RecruiteMee** — Recruitment-tech platform for ATS resumes, referrals, and candidate shortlisting
 - 🤖 **AI Resume Intelligence** — Resume parsing, role classification, skill matching, and intelligent recommendations
-- ⚙️ **DevOps & Cloud** — CI/CD pipelines, Docker, Kubernetes, cloud deployments, monitoring, and automation
-- 🧠 **System Design** — Microservices, API gateways, caching, async processing, scalability, and reliability
+- ⚙️ **DevOps & Cloud** — Docker, Kubernetes, CI/CD, cloud deployments, and infrastructure automation
+- 🧠 **System Design** — Microservices, caching, API gateways, async processing, scalability, and reliability
+- 📈 **Production Engineering** — Performance, monitoring, clean APIs, and maintainable architecture
 
 ---
 
@@ -65,6 +71,7 @@ My work mainly focuses on:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
 
 ### DevOps & Cloud
 
@@ -72,13 +79,15 @@ My work mainly focuses on:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-0A0A0A?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud%20Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
 
 ### AI / ML
 
-![AI](https://img.shields.io/badge/AI%20Integrations-7B61FF?style=for-the-badge)
+![AI Integrations](https://img.shields.io/badge/AI%20Integrations-7B61FF?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-FF9800?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-00A86B?style=for-the-badge)
 
 ---
 
@@ -86,11 +95,11 @@ My work mainly focuses on:
 
 ### 🎯 RecruiteMee_v1
 
-A full-stack recruitment platform focused on ATS-friendly resumes, referrals, and candidate shortlisting.
+A full-stack recruitment platform focused on ATS-friendly resumes, referrals, candidate shortlisting, and career-growth workflows.
 
 **Tech Focus:** React, Node.js, Express.js, MongoDB, JWT, Resume Workflows, Recruitment Tech
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/RecruiteMee_v1)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/RecruiteMee_v1)
 
 ---
 
@@ -100,7 +109,7 @@ AI-powered resume analysis and classification system designed to match resumes w
 
 **Tech Focus:** Python, AI/ML, NLP, Resume Classification, Intelligent Matching
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/Resume-Role-Classifier)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/Resume-Role-Classifier)
 
 ---
 
@@ -110,17 +119,17 @@ AI-based financial planning assistant focused on debt management and financial d
 
 **Tech Focus:** AI Assistant, Financial Technology, Planning Automation
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/debt-freedom-ai-)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/debt-freedom-ai-)
 
 ---
 
 ### 🔧 CI-CD
 
-DevOps automation examples covering CI/CD pipeline concepts, build automation, and deployment workflows.
+DevOps automation examples covering CI/CD pipeline concepts, build automation, Docker workflows, and deployment practices.
 
 **Tech Focus:** GitHub Actions, CI/CD, Docker, DevOps Automation
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/CI-CD)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/uppi07/CI-CD)
 
 ---
 
@@ -128,46 +137,149 @@ DevOps automation examples covering CI/CD pipeline concepts, build automation, a
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=uppi07&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uppi07&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=uppi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uppi07&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppi07&layout=compact&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uppi07&theme=radical&utcOffset=5.5" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppi07&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uppi07&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Upendra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uppi07&theme=react-dark&hide_border=true)](https://github.com/uppi07)
+[![Upendra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uppi07&theme=tokyo-night&hide_border=true)](https://github.com/uppi07)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🧩 Engineering Focus Areas
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uppi07&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
+<table>
+  <tr>
+    <td><b>Full-Stack Product Engineering</b></td>
+    <td>Building complete SaaS-style applications from frontend to backend</td>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-High-success?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend APIs & Microservices</b></td>
+    <td>Designing scalable REST APIs, service layers, authentication, and modular backend systems</td>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-High-success?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML Integrations</b></td>
+    <td>Integrating resume intelligence, classification, matching, and automation workflows</td>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-Strong-blue?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud Infrastructure</b></td>
+    <td>Working with Docker, Kubernetes, CI/CD pipelines, cloud deployments, and automation</td>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-Growing-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>System Design</b></td>
+    <td>Learning scalable architecture, caching, API gateways, async processing, and reliability patterns</td>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-Growing-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Recruitment Technology</b></td>
+    <td>Building tools around ATS optimization, resume workflows, referrals, and candidate-job matching</td>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-High-success?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 Engineering Interests
+## 🧠 What I’m Building Toward
 
 ```txt
-Full-Stack Development        ████████████████████
-Backend APIs & Microservices  ████████████████████
-AI / ML Integrations          ██████████████████░░
-DevOps & Cloud Infrastructure █████████████████░░░
-System Design                 █████████████████░░░
-Recruitment Technology        ████████████████████
+Product Engineering          ████████████████████  100%
+Backend Development          ████████████████████  100%
+AI-Powered Applications      ██████████████████░░   90%
+DevOps & Cloud               ████████████████░░░░   80%
+System Design                ████████████████░░░░   80%
+Open Source Growth           ██████████████░░░░░░   70%
+````
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced backend architecture with microservices
+* Docker, Kubernetes, Ingress, Helm, and cloud-native deployments
+* AWS and Azure cloud infrastructure fundamentals
+* CI/CD pipelines using GitHub Actions
+* AI-powered automation and intelligent workflow design
+* Scalable system design patterns for production applications
+* Monitoring, debugging, and reliability engineering
+
+---
+
+## 💡 What I Like Building
+
+* ATS resume platforms
+* AI-powered career tools
+* Backend APIs and SaaS products
+* Resume analysis and job matching systems
+* DevOps automation pipelines
+* Cloud-ready full-stack applications
+* Practical tools that solve real user problems
+
+---
+
+## 🤝 Open To
+
+* Software engineering collaborations
+* Full-stack web application projects
+* AI/ML-based product ideas
+* Recruitment-tech and HR-tech projects
+* DevOps and cloud learning projects
+* Open-source contributions
+
+---
+
+## 📫 Let's Connect
+
+I am always open to learning, building, and collaborating on meaningful software projects.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF7139?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://www.upendradommaraju.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/upendraupendra/)
+[![GitHub](https://img.shields.io/badge/GitHub-uppi07-181717?style=for-the-badge\&logo=github)](https://github.com/uppi07)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Always learning. Always building. Always improving.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=uppi07&style=for-the-badge&color=blueviolet" />
+
+</div>
