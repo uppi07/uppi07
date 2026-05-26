@@ -1,59 +1,222 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Upendra%20Dommaraju&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integrations%20%7C%20Microservices%20%7C%20DevOps%20%26%20Cloud&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:06B6D4&text=UPENDRA%20DOMMARAJU&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20DevOps%20%7C%20AI%20Systems&descAlignY=58&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Full-Stack+Applications;Designing+Backend+APIs+%26+Microservices;Integrating+AI+Into+Real-World+Products;Learning+Cloud%2C+DevOps%2C+Kubernetes+%26+System+Design" alt="Typing SVG" />
-
-<br/>
-<br/>
-
-<a href="https://www.upendradommaraju.com/">
-  <img src="https://img.shields.io/badge/Portfolio-upendradommaraju.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/upendraupendra/">
-  <img src="https://img.shields.io/badge/LinkedIn-Upendra%20Dommaraju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/uppi07">
-  <img src="https://img.shields.io/badge/GitHub-uppi07-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=uppi07&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Cloud+%26+DevOps+Engineer;AWS+Certified+Solutions+Architect;Building+Scalable+Distributed+Systems;Microservices+%7C+Kubernetes+%7C+AI+Integrations"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🚀 About Me
 
-## ⚡ Software Engineer Building AI-Powered, Cloud-Ready Products
+```yaml
+name: Upendra Dommaraju
+role: Senior Software Engineer
+experience: 5+ Years
+specialization:
+  - Full Stack Engineering
+  - Cloud Infrastructure
+  - DevOps & Platform Engineering
+  - Distributed Systems
+  - AI Integrations
+current_focus:
+  - Kubernetes & Cloud Native Platforms
+  - High Scale Backend Systems
+  - Infrastructure Automation
+  - Production Reliability
+  - AI Workflow Orchestration
+```
 
-</div>
+---
+
+# ⚡ Core Expertise
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-### 🚀 About Me
-
-I am a **Full-Stack Software Engineer** focused on building scalable, production-ready applications using modern web technologies, backend architecture, AI integrations, and cloud-native engineering practices.
-
-I enjoy turning ideas into practical software products with clean APIs, maintainable architecture, real user value, and strong engineering fundamentals.
-
-- 🔹 Building full-stack SaaS-style applications  
-- 🔹 Designing backend APIs, service layers, and scalable systems  
-- 🔹 Integrating AI workflows into practical products  
-- 🔹 Learning DevOps, Kubernetes, AWS, Azure, and system design  
-- 🔹 Focused on clean code, performance, automation, and reliability  
+### 💻 Engineering
+- JavaScript / TypeScript
+- Node.js / Express.js
+- React.js / Next.js
+- REST APIs & Microservices
+- Kafka & Event Driven Systems
+- AI / LLM Integrations
+- MongoDB / PostgreSQL / Redis
+- System Design & Scalability
 
 </td>
-<td width="40%" align="center">
+<td width="50%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=uppi07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Upendra's%20GitHub%20Stats" />
+### ☁️ Cloud & DevOps
+- AWS Cloud Architecture
+- Docker & Kubernetes
+- Helm & Terraform
+- GitHub Actions
+- AWS CodePipeline
+- EKS / EC2 / Lambda / S3
+- Prometheus / Grafana
+- CI/CD & GitOps
+
+</td>
+</tr>
+</table>
+
+---
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" />
+</a>
+
+<a href="https://docs.python.org/3/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://docs.oracle.com/en/java/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</a>
+
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sql" />
+</a>
+
+---
+
+## Frontend & Backend
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nextjs.org/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</a>
+
+<a href="https://nodejs.org/en/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redux" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://tailwindcss.com/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+
+---
+
+## Cloud & DevOps
+
+<a href="https://docs.aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://kubernetes.io/docs/home/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+</a>
+
+<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=terraform" />
+</a>
+
+<a href="https://docs.github.com/en/actions" target="_blank">
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+</a>
+
+<a href="https://nginx.org/en/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</a>
+
+<a href="https://www.kernel.org/doc/html/latest/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
+
+---
+
+## Databases & Tools
+
+<a href="https://www.mongodb.com/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://www.postgresql.org/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+
+<a href="https://dev.mysql.com/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://redis.io/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" />
+</a>
+
+<a href="https://grafana.com/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=grafana" />
+</a>
+
+<a href="https://prometheus.io/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=prometheus" />
+</a>
+
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+</div>
+
+---
+
+# 🏢 Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### CoverMyMeds
+**Senior Software Engineer**  
+`Jun 2025 — Present`
+
+</td>
+
+<td width="50%">
+
+### Accenture
+**Full Stack / Platform Engineer**  
+`Jan 2020 — Nov 2023`
 
 </td>
 </tr>
@@ -61,91 +224,77 @@ I enjoy turning ideas into practical software products with clean APIs, maintain
 
 ---
 
-<div align="center">
+# 🎓 Education
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:7C3AED,100:EC4899" width="100%" />
+### University of Dayton
+**Master of Science — Computer Science**  
+`Jan 2024 — Dec 2025`
 
-</div>
+---
 
-## 🔭 Current Engineering Focus
+## 🧩 Engineering Focus Areas
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### 🎯 Product Engineering
+### 🧱 Full-Stack Engineering
 
-Building **RecruiteMee**, a recruitment-tech platform focused on ATS-friendly resumes, referrals, candidate shortlisting, and career growth workflows.
+Frontend, backend, authentication, APIs, databases, and complete product workflows.
+
+<img src="https://img.shields.io/badge/Focus-High-22C55E?style=for-the-badge" />
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-### 🤖 AI Resume Intelligence
+### ⚙️ Backend & Microservices
 
-Working with resume parsing, role classification, intelligent matching, and AI-assisted recommendations for job seekers.
+REST APIs, service layers, modular architecture, async workflows, and scalable backend systems.
+
+<img src="https://img.shields.io/badge/Focus-High-22C55E?style=for-the-badge" />
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI Integrations
+
+Resume intelligence, classification, matching systems, workflow automation, and AI-assisted products.
+
+<img src="https://img.shields.io/badge/Focus-Strong-38BDF8?style=for-the-badge" />
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### ⚙️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
-Learning and applying Docker, Kubernetes, CI/CD pipelines, cloud deployments, infrastructure automation, and monitoring.
+Docker, Kubernetes, CI/CD, AWS, Azure, deployment workflows, and infrastructure automation.
+
+<img src="https://img.shields.io/badge/Focus-Strong-38BDF8?style=for-the-badge" />
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
 ### 🧠 System Design
 
-Improving architecture knowledge around microservices, caching, API gateways, async processing, scalability, reliability, and observability.
+Caching, API gateways, load balancing, microservices, event-driven systems, and reliability patterns.
+
+<img src="https://img.shields.io/badge/Focus-High-22C55E?style=for-the-badge" />
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 Recruitment Tech
+
+ATS optimization, resume workflows, referral systems, job matching, and candidate shortlisting.
+
+<img src="https://img.shields.io/badge/Focus-High-22C55E?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
-
-<br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" />
-
-<br/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" />
-
-<br/>
-
-### DevOps, Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,azure,git,linux,nginx&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Integrations-38BDF8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-EC4899?style=for-the-badge" />
-
-</div>
 
 ---
 
@@ -212,246 +361,39 @@ DevOps automation examples covering CI/CD pipeline concepts, build automation, D
 </table>
 
 ---
-
-## 📊 GitHub Analytics
+# 🏆 Certification
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uppi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uppi07&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
-<br/>
-<br/>
+### AWS Certified Solutions Architect – Associate
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppi07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uppi07&theme=tokyonight&utcOffset=5.5" />
+**Validation ID:** `7bf6e5d4dc054c55b10bb25b81c9b971`
 
-<br/>
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uppi07&theme=tokyonight" />
+**Issued:** May 2026  
+**Valid Through:** May 2029
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 📊 Github Analytics
+
+
+<br/>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=uppi07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=uppi07&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
----
-
-## 🧩 Engineering Focus Areas
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧱 Full-Stack Engineering
-
-Frontend, backend, authentication, APIs, databases, and complete product workflows.
-
-<img src="https://img.shields.io/badge/Focus-High-22C55E?style=for-the-badge" />
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Backend & Microservices
-
-REST APIs, service layers, modular architecture, async workflows, and scalable backend systems.
-
-<img src="https://img.shields.io/badge/Focus-High-22C55E?style=for-the-badge" />
-
-</td>
-<td align="center" width="33%">
-
-### 🤖 AI Integrations
-
-Resume intelligence, classification, matching systems, workflow automation, and AI-assisted products.
-
-<img src="https://img.shields.io/badge/Focus-Strong-38BDF8?style=for-the-badge" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="33%">
-
-### ☁️ DevOps & Cloud
-
-Docker, Kubernetes, CI/CD, AWS, Azure, deployment workflows, and infrastructure automation.
-
-<img src="https://img.shields.io/badge/Focus-Growing-F97316?style=for-the-badge" />
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 System Design
-
-Caching, API gateways, load balancing, microservices, event-driven systems, and reliability patterns.
-
-<img src="https://img.shields.io/badge/Focus-Growing-F97316?style=for-the-badge" />
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 Recruitment Tech
-
-ATS optimization, resume workflows, referral systems, job matching, and candidate shortlisting.
-
-<img src="https://img.shields.io/badge/Focus-High-22C55E?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Engineering Growth Map
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### Core Strengths
-
-```txt
-Full-Stack Product Engineering   ████████████████████ 100%
-Backend API Development          ████████████████████ 100%
-JavaScript / TypeScript          ████████████████████ 100%
-React + Node.js Ecosystem        ███████████████████░  95%
-AI-Powered Applications          ██████████████████░░  90%
-```
-
-</td>
-<td width="50%">
-
-### Expanding Depth
-
-```txt
-DevOps & Cloud Engineering       ████████████████░░░░  80%
-Kubernetes & Cloud Deployments   ███████████████░░░░░  75%
-System Design                    ████████████████░░░░  80%
-Monitoring & Reliability         ██████████████░░░░░░  70%
-Open Source Growth               ██████████████░░░░░░  70%
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<table>
-<tr>
-<td width="50%">
-
-- Advanced backend architecture with microservices  
-- Docker, Kubernetes, Ingress, Helm, and deployments  
-- AWS and Azure infrastructure fundamentals  
-- CI/CD pipelines using GitHub Actions  
-
-</td>
-<td width="50%">
-
-- AI-powered automation workflows  
-- Scalable system design patterns  
-- Monitoring, debugging, and reliability engineering  
-- Cloud-native production practices  
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 What I Like Building
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ATS%20Resume%20Platforms-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Career%20Tools-1E293B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SaaS%20Products-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend%20APIs-020617?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevOps%20Pipelines-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud%20Applications-1E293B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Resume%20Intelligence-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Job%20Matching%20Systems-020617?style=for-the-badge" />
-
-</div>
-
----
-
-## 🤝 Open To
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💻 Software Engineering
-
-Full-stack and backend engineering collaborations.
-
-</td>
-<td align="center" width="25%">
-
-### 🤖 AI Products
-
-AI/ML product ideas, resume intelligence, and automation tools.
-
-</td>
-<td align="center" width="25%">
-
-### ☁️ DevOps Projects
-
-CI/CD, Docker, Kubernetes, and cloud learning projects.
-
-</td>
-<td align="center" width="25%">
-
-### 🌍 Open Source
-
-Meaningful contributions and practical developer tools.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I am always open to learning, building, and collaborating on meaningful software projects.
-
-<br/>
-<br/>
-
-<a href="https://www.upendradommaraju.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/upendraupendra/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/uppi07">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Always+Learning.;Always+Building.;Always+Improving." />
+<img src="https://streak-stats.demolab.com?user=uppi07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -459,6 +401,6 @@ I am always open to learning, building, and collaborating on meaningful software
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2C5364,50:203A43,100:0F2027&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E3A8A,100:06B6D4"/>
 
 </div>
